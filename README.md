@@ -1,3 +1,5 @@
+<p>README.md of the template file used to make the website.</p>
+
 <meta http-equiv="refresh" content="0; url='https://opprDev.github.io/academic-responsive-template/src/index.html'" />
 
 # Academic Responsive Template
