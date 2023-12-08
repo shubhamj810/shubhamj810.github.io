@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Trying out creating a website
 =======
 <meta http-equiv="refresh" content="0; url='https://opprDev.github.io/academic-responsive-template/src/index.html'" />
 
