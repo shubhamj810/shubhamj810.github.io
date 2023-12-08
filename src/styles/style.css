@@ -744,6 +744,7 @@ html {
   display: table;
   width: 100%;
 }
+
 .mbr-box--fixed {
   table-layout: fixed;
 }
@@ -839,7 +840,7 @@ html {
 }
 .mbr-figure {
   display: inline-block;
-  /*line-height: 1px;*/
+  /* line-height: 1px; */
   margin: 0;
   max-width: 100%;
   overflow: hidden;
@@ -1147,9 +1148,9 @@ html {
 }
 .mbr-header__text {
   display: block;
-  font-size: 25px;
+  font-size: 40px;
   font-weight: bold;
-  letter-spacing: 6px;
+  letter-spacing: 4px;
   line-height: 1.5em;
   margin: 0;
 }
