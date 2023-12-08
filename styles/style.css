@@ -1,3 +1,7 @@
+/* Self-defined styles */
+
+
+
 .is-builder .animated {
   -webkit-animation-name: none !important;
   animation-name: none !important;
@@ -556,6 +560,13 @@ html {
   position: relative;
   z-index: 3;
 }
+/* For specific size of container and font */
+.mbr-section__container_sized {
+  /* width: 500px; */
+  height: 200px;
+  padding-bottom: 20px;
+}
+/* End */
 .mbr-section__container--center {
   text-align: center;
 }
@@ -596,9 +607,9 @@ html {
   margin-right: -24px;
 }
 .mbr-section__col {
-  overflow: hidden;
-  padding-left: 24px;
-  padding-right: 24px;
+  overflow: scroll;
+  /* padding-left: 16px;
+  padding-right: 16px; */
 }
 .mbr-section__left {
   padding-right: 40px;
@@ -1157,6 +1168,14 @@ html {
   line-height: 1.5em;
   margin: 0;
 }
+.mbr-header__text_small {
+  display: block;
+  font-size: 26px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  line-height: 1.5em;
+  margin: 0;
+}
 .mbr-header__subtext {
   color: #777;
   font-size: 14px;
@@ -1443,6 +1462,13 @@ html {
   line-height: 1.3em;
   text-align: left;
 }
+
+/* Line spacing self-defined */
+/* .mbr-article_lines_wide {
+  /* width: 500px; */
+  margin-bottom: 20px;
+} */
+/* End */
 .mbr-article--wysiwyg h1 {
   font-size: 27px;
   letter-spacing: 3px;
