@@ -853,6 +853,9 @@ html {
   display: block;
   width: 100%;
 }
+.mbr-figure--top-whitespace {
+  padding: 84px 0px 0px 0px
+}
 .mbr-figure--full-width {
   display: block;
   width: 100%;
