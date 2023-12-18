@@ -596,6 +596,12 @@ html {
   padding-top: 93px;
   padding-bottom: 41px;
 }
+
+/* Self added */
+.mbr-section__container--first_modified {
+  padding-top: 20px;
+  padding-bottom: 41px;
+}
 .mbr-section__container--middle {
   padding-bottom: 41px;
 }
